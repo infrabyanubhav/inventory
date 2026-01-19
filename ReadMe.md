@@ -3,7 +3,7 @@
 This repository contains the implementation for the **Stockflow inventory management case study**. It is a small Django + Django REST Framework project that exposes APIs to manage companies, warehouses, products, inventory levels, suppliers, and product bundles, and to surface low‑stock alerts.
 
 The original case study description is in this Google Doc (provided by the recruiter/assignment):  
-`https://docs.google.com/document/d/18RsGFhkO6IImZhGgxdzh4TDM0MbvTz_q-gViKiilMN4/edit?usp=sharing`
+[Stockflow case study brief](https://docs.google.com/document/d/18RsGFhkO6IImZhGgxdzh4TDM0MbvTz_q-gViKiilMN4/edit?usp=sharing)
 
 ### Tech stack
 - **Backend**: Django 5 + Django REST Framework
